@@ -7,5 +7,6 @@ public class Ejercicio4 {
         float r= entrada.nextFloat();
         entrada.close();
         double area= Math.PI *(r*r);
+        System.out.println("Aréa = "+area);
     }
 }
