@@ -14,8 +14,8 @@ public class Ejercicio12 {
         System.out.println("Media aritmetica = "+media);
         double suma = n1+n2+n3;
         System.out.println("Suma: "+suma);
-        System.out.println(n1+" = "+(n1*2) );
-        System.out.println(n2+" = "+(n2*3));
-        System.out.println(n3+" = "+Math.pow(n3, 2));
+        System.out.println("Doble de "+n1+" = "+(n1*2) );
+        System.out.println("Triple de "+n2+" = "+(n2*3));
+        System.out.println("Cuadrado de "+n3+" = "+Math.pow(n3, 2));
     }
 }
