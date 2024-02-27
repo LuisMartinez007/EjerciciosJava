@@ -6,7 +6,7 @@ public class Ejercicio30 {
         System.out.print("Digite una cantidad de kilometros: ");
         float km = in.nextFloat();
         in.close();
-        float cm = km*1000;
-        System.out.println(km+" km = "+ cm+" cm");
+        float m = km*1000;
+        System.out.println(km+" km = "+ m+" metros");
     }
 }
