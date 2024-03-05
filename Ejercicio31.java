@@ -9,10 +9,10 @@ public class Ejercicio31 {
         double altura = in.nextInt();
         in.close();
         double resmm= (altura*base)/2;
-        System.out.println("Area = "+resmm+ " MM");
-        double rescm= resmm/10;
-        System.out.println("Area = "+rescm+" CM");
-        double resM = rescm/1000;
+        System.out.println("Area = "+resmm+ " MM^2");
+        double rescm= resmm/100;
+        System.out.println("Area = "+rescm+" CM^2");
+        double resM = rescm/10000;
         System.out.println("Area = "+resM+ " M^2");
     }
 }
