@@ -11,7 +11,7 @@ public class Ejercicio32 {
             double n2= entrada.nextDouble();
             entrada.close();
             double rM = n1*n2;
-            System.out.print("Area = "+rM+" M^2");
+            System.out.println("Area = "+rM+" M^2");
             double rCM = rM*10000;
             System.out.println("Area = "+rCM+" CM^2");
             double rMM = rCM*100;
