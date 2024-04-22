@@ -3,7 +3,7 @@ package PaquetePrincipal;
 
 /**
  *
- * @author yulin
+ * @author Usuario
  */
 public class dialogoFecha extends javax.swing.JDialog {
     

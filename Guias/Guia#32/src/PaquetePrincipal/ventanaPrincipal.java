@@ -3,7 +3,7 @@ package PaquetePrincipal;
 
 /**
  *
- * @author yulin
+ * @author Usuario
  */
 public class ventanaPrincipal extends javax.swing.JFrame {
     
